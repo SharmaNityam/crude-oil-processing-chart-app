@@ -24,11 +24,11 @@ Models: Represents the data structure for the chart.
 Screens: UI components that display the chart and handle user interaction.
 
 ## File Structure
-
+```sh
 lib/
 │
-├── main.dart              # Entry point of the application
-├── app.dart               # Sets up the MaterialApp with theme and router
+├── main.dart              # Entry point of the application \n
+├── app.dart               # Sets up the MaterialApp with theme and router\n
 ├── router.dart            # Manages app routing using GoRouter
 ├── screens/
 │   ├── home_screen.dart   # Home screen with a button to view the chart
@@ -39,7 +39,7 @@ lib/
 │   └── chart_data.dart    # Model for parsing API response data
 ├── providers/
 │   └── chart_provider.dart # Manages state for chart data
-
+```
 ## Screenshots
 ![Screenshot_1724529790](https://github.com/user-attachments/assets/6fc1b0ed-e2cd-4e3e-9f2c-063f4547e5cb)
 ![Screenshot_1724530214](https://github.com/user-attachments/assets/2be1fd18-36d7-4f23-a59e-15d637fd7257)
