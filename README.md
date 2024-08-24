@@ -41,6 +41,9 @@ lib/
 │   └── chart_provider.dart # Manages state for chart data
 ```
 ## Screenshots
-![Screenshot_1724529790](https://github.com/user-attachments/assets/6fc1b0ed-e2cd-4e3e-9f2c-063f4547e5cb)
-![Screenshot_1724530214](https://github.com/user-attachments/assets/2be1fd18-36d7-4f23-a59e-15d637fd7257)
+<!-- Home Screen Screenshot -->
+<img src="https://github.com/user-attachments/assets/6fc1b0ed-e2cd-4e3e-9f2c-063f4547e5cb" alt="Home Screen" width="600"/>
+
+<!-- Chart Screen Screenshot -->
+<img src="https://github.com/user-attachments/assets/2be1fd18-36d7-4f23-a59e-15d637fd7257" alt="Chart Screen" width="600"/>
 
