@@ -9,13 +9,13 @@ This Flutter application displays a bar chart visualizing the crude oil processi
 - [File Structure](#filestructure)  
 - [Screenshots](#screenshots)
 
-Features
+## Features:
 Data Visualization: Displays crude oil processing data in a bar chart.
 API Integration: Fetches data from a remote API.
 Responsive UI: Designed to look great on both mobile and tablet devices.
 Error Handling: Provides user-friendly error messages when data cannot be fetched.
 
-Architecture
+## Architecture
 The app follows a clean architecture pattern with the following key components:
 
 Provider and Riverpod: Used for state management and dependency injection.
@@ -23,7 +23,7 @@ API Service: Handles data fetching from a REST API.
 Models: Represents the data structure for the chart.
 Screens: UI components that display the chart and handle user interaction.
 
-File Structure
+## File Structure
 
 lib/
 │
@@ -40,7 +40,7 @@ lib/
 ├── providers/
 │   └── chart_provider.dart # Manages state for chart data
 
-Screenshots
+## Screenshots
 ![Screenshot_1724529790](https://github.com/user-attachments/assets/6fc1b0ed-e2cd-4e3e-9f2c-063f4547e5cb)
 ![Screenshot_1724530214](https://github.com/user-attachments/assets/2be1fd18-36d7-4f23-a59e-15d637fd7257)
 
