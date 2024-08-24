@@ -27,8 +27,8 @@ Screens: UI components that display the chart and handle user interaction.
 ```sh
 lib/
 │
-├── main.dart              # Entry point of the application \n
-├── app.dart               # Sets up the MaterialApp with theme and router\n
+├── main.dart              # Entry point of the application 
+├── app.dart               # Sets up the MaterialApp with theme and router
 ├── router.dart            # Manages app routing using GoRouter
 ├── screens/
 │   ├── home_screen.dart   # Home screen with a button to view the chart
