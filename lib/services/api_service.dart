@@ -3,8 +3,8 @@ import 'dart:convert';
 import '../models/chart_data.dart';
 
 class ApiService {
-  final String baseUrl = 'https://api.data.gov.in/resource/8d3b6596-b09e-4077-aebf-425193185a5b';
-  final String apiKey = '579b464db66ec23bdd000001ecdb2a06583a4c1e57caceb9204bdca2';
+  final String baseUrl =; //enter the api url
+  final String apiKey =; //enter the api key
 
   Future<List<ChartPoint>> fetchChartData() async {
     try {
